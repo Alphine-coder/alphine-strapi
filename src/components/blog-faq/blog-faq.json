@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_blog_faq_blog_faqs",
+  "info": {
+    "displayName": "BlogFAQ"
+  },
+  "options": {},
+  "attributes": {
+    "question": {
+      "type": "string"
+    },
+    "answer": {
+      "type": "text"
+    }
+  }
+}
